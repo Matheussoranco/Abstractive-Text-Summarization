@@ -4,3 +4,5 @@ Bidirectional Autoregressive Transformer (BART) is a Transformer-based encoder-d
 # Sources and references:
 https://keras.io/examples/nlp/abstractive_summarization_with_bart/
 https://arxiv.org/abs/1910.13461
+- [Keras: BART Example]([https://keras.io/examples/vision/nerf/](https://keras.io/examples/nlp/abstractive_summarization_with_bart/))  
+- [BART article on Arxiv]([https://github.com/bmild/nerf](https://arxiv.org/abs/1910.13461))  
